@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "name": "HIIT Workout",
+      "description": "High intensity interval training (HIIT) takes advantage of short, micro bursts of very high intensity exercise, coupled with a short duration of timed recovery. HIIT protocols are very powerful in that they create an “in workout” oxygen deficit in an effort to create EPOC, or excess post-exercise oxygen consumption.",
+      "age": "16-45",
+      "time": 90,
+      "img": "https://img.freepik.com/free-photo/determined-woman-training-have-healthy-slim-body-beautiful-woman-doing-lateral-bounds-her-daily-cardio-hiit-workout_662251-1388.jpg?w=1060&t=st=1666440478~exp=1666441078~hmac=c7992301f1c9f0cdd49cf0c5c10b16e413c5a6d2a6cede71041e131459dc1bea"
+     
+    },
+    {
+      "id": "2",
+      "name": "Yoga",
+      "description": "The ancient discipline from Indid has gained status across the globe. With simple stretches and controlled breathing to complex and fast changing postures, yoga has a wide range of exercise to offer various age group.",
+      "age": "15-50",
+      "time": 90,
+      "img": "https://img.freepik.com/free-photo/sporty-young-woman-doing-yoga-practice-isolated-concept-healthy-life-natural-balance-body-mental-development_231208-10353.jpg?w=1060&t=st=1666440551~exp=1666441151~hmac=cd6f19b77d872f786f8ca836c3d77ece38a83cf9eb2dc92e301b11a1697f0cdd"
+     
+    },
+    {
+      "id": "3",
+      "name": "Pilates",
+      "description": "Beginners to fitness nerds, Pilates can be tailored as per one's fitness index. It is based on Six Principals of cantering, control,flow, breath, precision and cencentration.",
+      "age": "15-45",
+      "time": 90,
+      "img": "https://img.freepik.com/free-photo/woman-practising-pilates-pilates-reformer_1303-14841.jpg?w=1060&t=st=1666440595~exp=1666441195~hmac=09384c9923cf6f577acd2fa165d884caeb027fc128a4b306dc6ea60f4b26e2fd"
+     
+    },
+    {
+      "id": "4",
+      "name": "Strength training",
+      "description": "An essential part of improving strength and muscular endurance, resistance training can incorporate body weight, TRX Suspension Training, free weights, weight machines, etc. Traditional strength training techniques, including super sets",
+      "age": "20-35",
+      "time": 90,
+      "img": "https://img.freepik.com/free-photo/woman-doing-squats-smith-machine_7502-9063.jpg?w=1060&t=st=1666440659~exp=1666441259~hmac=27e51ed58d8d31a1db06f053823e9b9f9a8f6479e11b09898f84ef6684dd4ebb"
+     
+    },
+    {
+      "id": "5",
+      "name": "Cross Fit",
+      "description": "This is a highly intensity workout that has garnered attention of many fitness enthusiasts over the last two decades. It involves varied functional movements performed at anaerobic level with goal of strength buildong & conditioning.",
+      "age": "20-30",
+      "time": 90,
+      "img": "https://img.freepik.com/free-photo/wellness-young-muscular-caucasian-woman-practicing-gym-with-equipment-athletic-female-model-doing-abs-exercises-training-her-upper-body-belly-wellness-healthy-lifestyle-bodybuilding_155003-28626.jpg?w=1060&t=st=1666440736~exp=1666441336~hmac=30dca666baa2f39a96b93f44ab6bd0b8e6fe23fcb0a6a014347c388afd88f803"
+     
+    },
+    {
+      "id": "6",
+      "name": "Aerobic",
+      "description": "Aerobic is an umbrella term spanning across various fitness exercise that can make your body sweat profusely, lungs beat faster and cardiovascular system pump the blood faster.",
+      "age": "15-35",
+      "time": 90,
+      "img": "https://img.freepik.com/free-photo/people-fitness-class-gym_155003-1158.jpg?w=1060&t=st=1666440825~exp=1666441425~hmac=9ebb4a85201f06c948712fbcaaba71bf18cb6610adeecf679df6f2eb1b64cbd3"
+     
+    }
+]
